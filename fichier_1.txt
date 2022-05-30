@@ -1,0 +1,5 @@
+# On se place dans le bon dossier
+cd Mon-depot
+
+# On créer notre fichier texte
+nano fichier_1.txt
